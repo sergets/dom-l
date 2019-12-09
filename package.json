@@ -1,5 +1,5 @@
 {
-  "name": "dom-l",
+  "name": "l-helper",
   "version": "0.0.1",
   "description": "A super minimalistic syntax sugar library to create DOM elements",
   "main": "l.js",
