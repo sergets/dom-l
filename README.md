@@ -1,4 +1,4 @@
-# l-helper
+# l-helper [![npm module](https://img.shields.io/npm/v/l-helper.svg?style=flat)](https://www.npmjs.com/package/l-helper)
 A super minimalistic syntax sugar library to create DOM elements.
 
 L means _light_. Also, L means _el_ (like in _el_ ement). Library is polymorphic (adds itself to AMD or CommonJS module system, or if fails to find one, just exposes itself into global scope as `L`);
