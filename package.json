@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergets/dom-l.git"
+    "url": "git+https://github.com/sergets/l-helper.git"
   },
   "keywords": [
     "dom",
@@ -18,7 +18,7 @@
   "author": "Sergey Tsibulskiy <sergets@ya.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sergets/dom-l/issues"
+    "url": "https://github.com/sergets/l-helper/issues"
   },
-  "homepage": "https://github.com/sergets/dom-l#readme"
+  "homepage": "https://github.com/sergets/l-helper#readme"
 }
