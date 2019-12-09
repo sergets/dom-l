@@ -1,0 +1,24 @@
+{
+  "name": "dom-l",
+  "version": "0.0.1",
+  "description": "A super minimalistic syntax sugar library to create DOM elements",
+  "main": "l.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergets/dom-l.git"
+  },
+  "keywords": [
+    "dom",
+    "createElement",
+    "appendChild"
+  ],
+  "author": "Sergey Tsibulskiy <sergets@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergets/dom-l/issues"
+  },
+  "homepage": "https://github.com/sergets/dom-l#readme"
+}
